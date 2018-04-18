@@ -6,7 +6,7 @@
  * 
  *;
  
- * URL: 
+ * URL: https://dimose.github.io/VideoWebCam/
  */
 
 /*
